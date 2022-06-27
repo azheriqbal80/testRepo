@@ -1,0 +1,36 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 27 Jun 2022 19:11:49 GMT
+ */
+
+:root {
+  --global-color-2: #cc00ff;
+  --global-color-1: #438599;
+  --global-font-families-axiforma: Axiforma;
+  --global-line-heights-0: AUTO;
+  --global-font-weights-axiforma-0: SemiBold;
+  --global-font-size-0: 12;
+  --global-letter-spacing-0: 0%;
+  --global-paragraph-spacing-0: 0;
+  --global-text-1: [object Object];
+  --global-text-case-none: none;
+  --global-text-decoration-none: none;
+  --global-btn-br: 4;
+}
+
+.btn-1,
+.btn-2 {
+  border: none;
+  color: white;
+  padding: 8px;
+}
+.btn-1 {
+  background-color: var(--global-color-1);
+  font-size: var(--global-font-size-0);
+  border-radius: var(--global-btn-br);
+}
+.btn-2 {
+  background-color: var(--global-color-2);
+  font-size: var(--global-font-size-0);
+  border-radius: var(--global-btn-br);
+}
