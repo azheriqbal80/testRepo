@@ -5,7 +5,7 @@
 
 :root {
   --global-color-2: #e17f7f;
-  --global-color-1: #438599;
+  --global-color-1: #222222;
   --global-font-families-axiforma: Axiforma;
   --global-line-heights-0: AUTO;
   --global-font-weights-axiforma-0: SemiBold;
@@ -17,7 +17,6 @@
   --global-text-decoration-none: none;
   --global-btn-br: 4;
 }
-
 
 .btn-1,
 .btn-2 {
